@@ -1,0 +1,11 @@
+{
+  "name": "com.juahn.v2.tables",
+  "displayName": "Juahn V2 Tables",
+  "version": "0.1.0",
+  "unity": "6000.0",
+  "author": "armadimon",
+  "license": "MIT",
+  "type": "library",
+  "description": "Versioned table cache envelopes, integrity/schema checks and read-only indexed snapshots.",
+  "dependencies": {}
+}

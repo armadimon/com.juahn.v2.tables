@@ -1,0 +1,10 @@
+{
+  "assemblies": {
+    "juahn.v2.Tables": {
+      "references": [],
+      "noEngineReferences": true
+    }
+  },
+  "assemblyOwners": {},
+  "consumerDependencies": []
+}
